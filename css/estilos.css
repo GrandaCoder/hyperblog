@@ -42,3 +42,9 @@ body{
     background: white;
     padding: 1em;
 }
+
+#footer{
+    background: purple;
+    color: white;
+    text-align: center;
+}
