@@ -11,3 +11,4 @@
 
 ## Readme mejorado
 * Ejemplos linux windows mac
+* disponible para todas las edades
